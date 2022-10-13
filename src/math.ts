@@ -1,7 +1,7 @@
 // ### LEVEL 1: The Basics ###
 export function add(x: number, y: number): number {
   // TODO: Return the sum of x and y
-  throw new Error("Not implemented");
+  return x + y;
 }
 
 // ### LEVEL 2: Fizz Buzz ###
